@@ -1,4 +1,4 @@
-const riotKey = "RGAPI-427d0ce6-e128-41b9-a1b4-4f6fbddf8e83";
+const riotKey = "RGAPI-28fe893d-4919-4207-9273-28dcd175fa70";
 
 const serverLocale = document.querySelector('.locale');
 const serverStatus = document.querySelector('.status');
